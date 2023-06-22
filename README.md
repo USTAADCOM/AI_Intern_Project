@@ -26,7 +26,7 @@ It will return the response complete sentence with response Code=201
  Model Description
  Text Generator model is developed by using the Hugging face transformers library
  -> Here we opt-125m model for text generation
- -> To use others models opt-350, opt-1.3b, opt-6.7b, opt-30b 
+ -> To use others models for better performance opt-350, opt-1.3b, opt-6.7b, opt-30b 
  Just do the following steps
  1) Change model name in text_geneeration_model.py
  2) Give the name to the folder with which you want to save your model on your computer
