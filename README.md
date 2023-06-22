@@ -2,7 +2,10 @@
 
 Project Clone
 
-1)  type git clone   
+1)  type git clone https://github.com/USTAADCOM/AI_Intern_Project.git
+2)  Download zip file from Google drive
+    
+4)  Extract and copy models and .env folder in your folder clone from git
 __________________________________________________________________________________________________________________________________________
 Project contain two portions 
 1) Text_Geneerator + Remove Image Background with GUI
