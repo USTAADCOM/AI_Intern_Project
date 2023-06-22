@@ -1,5 +1,9 @@
 # AI_Intern_Project
 
+Project Clone
+
+1)  type git clone   
+__________________________________________________________________________________________________________________________________________
 Project contain two portions 
 1) Text_Geneerator + Remove Image Background with GUI
 2) API
