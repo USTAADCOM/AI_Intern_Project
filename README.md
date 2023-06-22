@@ -4,7 +4,7 @@ Project Clone
 
 1)  type git clone https://github.com/USTAADCOM/AI_Intern_Project.git
 2)  Download zip file from Google drive
-    
+    https://drive.google.com/file/d/17I7F177zLaa0CsqV4yed5-Kbd2iAX3UW/view?usp=drive_link
 4)  Extract and copy models and .env folder in your folder clone from git
 __________________________________________________________________________________________________________________________________________
 Project contain two portions 
